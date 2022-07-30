@@ -1,0 +1,15 @@
+/Users/_tenotea/Projects/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe
+/Users/_tenotea/Projects/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.deps.json
+/Users/_tenotea/Projects/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.runtimeconfig.json
+/Users/_tenotea/Projects/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.dll
+/Users/_tenotea/Projects/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.pdb
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.csproj.AssemblyReference.cache
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.AssemblyInfoInputs.cache
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.AssemblyInfo.cs
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.csproj.CoreCompileInputs.cache
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.dll
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/refint/tic-tac-toe.dll
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.pdb
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.genruntimeconfig.cache
+/Users/_tenotea/Projects/tic-tac-toe/obj/Debug/net6.0/ref/tic-tac-toe.dll
